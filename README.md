@@ -1,12 +1,12 @@
 <img align="center" width="100%" src="https://s8.uupload.ir/files/pixel_art_gallery_y4q.gif">
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate frontend Student from Iran</h3>
+<h3 align="center">A passionate Computer software engineering Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alim0jahed&label=Profile%20views&color=0e75b6&style=flat" alt="alim0jahed" /> </p>
 
 <p align="center"> <a href="https://twitter.com/xqdiv" target="blank"><img src="https://img.shields.io/twitter/follow/xqdiv?logo=twitter&style=for-the-badge" alt="xqdiv" /></a> </p>
 <p align="center">
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning**Django**
 
 <p align="center">- 📫 How to reach me **alimojahed858@gmail.com**</p>
 
