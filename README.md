@@ -2,8 +2,9 @@
 <h1 align="center">Hi I'm Ali</h1>
 <h3 align="center">A passionate Computer software engineering Student <br> Passionate about Bioinformatics </h3>
 
+<br>
 
-# 💻 Tech Stacks
+<h1 align="center">💻 Tech Stacks </h1>
 
 <h2> Core Languages and libraries</h2>
 
