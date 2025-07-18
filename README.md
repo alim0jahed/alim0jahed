@@ -17,35 +17,35 @@
 
 <h2 align="center"> Languages </h2>
 <br>
-<center>
+<div align="center">
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-</center>
+</div>
 
 <h2 align="center"> Frameworks & Libraries </h2>
 <br>
-<center>
+<div align="center">
   
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-</center>
+</div>
 
 <h2 align="center"> Design </h2>
 <br>
-<center>
+<div align="center">
   
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-</center>
+</div>
 
 <h1 align="center">🌐 Socials</h1>
 <br>
-<center>
+<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alim0jahed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alimojahed858@gmail.com) 
 
-</center>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alim0jahed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
