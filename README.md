@@ -22,7 +22,7 @@
 <div align="center" style=''>
   
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
-![Static Badge](https://img.shields.io/badge/Scikit-learn-Orange?style=for-the-badge&logoSize=20&labelColor=%23c29f4f&color=%23c29f4f)
+![Static Badge](https://img.shields.io/badge/Scikit-Image-Orange?style=for-the-badge&logoSize=20&labelColor=%23ff9940&color=%23ff9940)
 ![Static Badge](https://img.shields.io/badge/Pydicom-green?style=for-the-badge&logoSize=20&labelColor=%2360824a&color=%2360824a)
 ![Static Badge](https://img.shields.io/badge/ImageIO-white?style=for-the-badge&logoSize=20&labelColor=%23363636&color=%23363636)
 
